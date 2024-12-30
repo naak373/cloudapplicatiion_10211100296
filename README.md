@@ -1,7 +1,7 @@
 ECommerce site called Fity by Michelle Naa Kwarley Owoo
 Roll No : 10211100296
 
-Working Images: 
+Working Images are found in the Working folder in the master branch: These images illustrate the site design, product pages as well and checkout pages 
 
 
 
